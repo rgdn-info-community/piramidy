@@ -25,12 +25,13 @@
       function initMap() {
         var map = new google.maps.Map(document.getElementById('map'), {
           zoom: 11,
-          center: {lat: 29.975833, lng: 31.133056}
+          center: {lat: 29.975833, lng: 31.133056},
+          mapTypeId: 'satellite'
         });
 
         var ctaLayer = new google.maps.KmlLayer({
           url: 'https://github.com/rgdn-info-community/piramidy/blob/master/geolines-ru-complete.kml',
-          map: map
+          map: satellite
         });
       }
     </script>
