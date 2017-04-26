@@ -1,18 +1,6 @@
-# Dependencies
-
-  
 # Setup
 theme:        jekyll-theme-cayman
-source:       src
-title:        База пирамид
-description:  'Пирамиды. Сбор информации. Создание общей базы.'
+markdown:     kramdown
 
-github:
-  repo:       https://github.com/rgdn-info-community/piramidy
-
-maps:
-  google:
-    api_key: 
-
-gems:
-  - jekyll-maps
+title:        "База пирамид"
+description:  "Пирамиды. Сбор информации. Создание общей базы."
