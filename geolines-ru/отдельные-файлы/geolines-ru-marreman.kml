@@ -1,0 +1,496 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+<Document>
+	<name>geolines-ru-marreman.kml</name>
+	<StyleMap id="msn_campground166">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_campground129</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_campground234</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="sn_campground129">
+		<IconStyle>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/shapes/campground.png</href>
+			</Icon>
+			<hotSpot x="0.5" y="0" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+		<LabelStyle>
+			<color>ff00aaff</color>
+			<scale>0</scale>
+		</LabelStyle>
+		<BalloonStyle>
+			<text>$[description]</text>
+		</BalloonStyle>
+		<LineStyle>
+			<color>00000000</color>
+			<antialias>0</antialias>
+			<width>0.8</width>
+		</LineStyle>
+		<PolyStyle>
+			<color>00000000</color>
+			<fill>0</fill>
+			<outline>0</outline>
+		</PolyStyle>
+	</Style>
+	<Style id="s_ylw-pushpin">
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<LineStyle>
+			<color>ffff55aa</color>
+			<width>1.5</width>
+		</LineStyle>
+	</Style>
+	<Style id="s_ylw-pushpin_hl">
+		<IconStyle>
+			<scale>1.3</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<LineStyle>
+			<color>ffff55aa</color>
+			<width>1.5</width>
+		</LineStyle>
+	</Style>
+	<StyleMap id="inline1">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#inline</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#inline2</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="inline4">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#inline3</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#inline0</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="sh_star75">
+		<IconStyle>
+			<color>ffff00ff</color>
+			<scale>1.33333</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/shapes/star.png</href>
+			</Icon>
+		</IconStyle>
+		<LabelStyle>
+			<color>ff00aaff</color>
+		</LabelStyle>
+		<BalloonStyle>
+			<text>$[description]</text>
+		</BalloonStyle>
+		<LineStyle>
+			<color>00000000</color>
+			<antialias>0</antialias>
+			<width>0.8</width>
+		</LineStyle>
+		<PolyStyle>
+			<color>00000000</color>
+			<fill>0</fill>
+			<outline>0</outline>
+		</PolyStyle>
+	</Style>
+	<Style id="sn_star69">
+		<IconStyle>
+			<color>ffff00ff</color>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/shapes/star.png</href>
+			</Icon>
+		</IconStyle>
+		<LabelStyle>
+			<color>ff00aaff</color>
+			<scale>0</scale>
+		</LabelStyle>
+		<BalloonStyle>
+			<text>$[description]</text>
+		</BalloonStyle>
+		<LineStyle>
+			<color>00000000</color>
+			<antialias>0</antialias>
+			<width>0.8</width>
+		</LineStyle>
+		<PolyStyle>
+			<color>00000000</color>
+			<fill>0</fill>
+			<outline>0</outline>
+		</PolyStyle>
+	</Style>
+	<StyleMap id="m_ylw-pushpin">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#s_ylw-pushpin</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#s_ylw-pushpin_hl</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="inline">
+		<LineStyle>
+			<color>ffdddd00</color>
+			<width>1.5</width>
+		</LineStyle>
+		<PolyStyle>
+			<fill>0</fill>
+		</PolyStyle>
+	</Style>
+	<Style id="inline3">
+		<LineStyle>
+			<color>ff7f55ff</color>
+			<width>1.5</width>
+		</LineStyle>
+		<PolyStyle>
+			<fill>0</fill>
+		</PolyStyle>
+	</Style>
+	<Style id="sn_polygon156">
+		<IconStyle>
+			<color>ff00ff00</color>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/shapes/polygon.png</href>
+			</Icon>
+		</IconStyle>
+		<LabelStyle>
+			<color>ff00aaff</color>
+			<scale>0</scale>
+		</LabelStyle>
+		<BalloonStyle>
+			<text>$[description]</text>
+		</BalloonStyle>
+		<LineStyle>
+			<color>00000000</color>
+			<antialias>0</antialias>
+			<width>0.8</width>
+		</LineStyle>
+		<PolyStyle>
+			<color>00000000</color>
+			<fill>0</fill>
+			<outline>0</outline>
+		</PolyStyle>
+	</Style>
+	<StyleMap id="msn_star49">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_star69</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_star75</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="inline0">
+		<LineStyle>
+			<color>ff7f55ff</color>
+			<width>1.5</width>
+		</LineStyle>
+		<PolyStyle>
+			<fill>0</fill>
+		</PolyStyle>
+	</Style>
+	<Style id="sn_open-diamond">
+		<IconStyle>
+			<color>ff7fff00</color>
+			<scale>1.5</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/shapes/open-diamond.png</href>
+			</Icon>
+		</IconStyle>
+		<LabelStyle>
+			<color>ff00aaff</color>
+			<scale>0</scale>
+		</LabelStyle>
+		<BalloonStyle>
+			<text>$[description]</text>
+		</BalloonStyle>
+		<LineStyle>
+			<color>00000000</color>
+			<antialias>0</antialias>
+			<width>0.8</width>
+		</LineStyle>
+		<PolyStyle>
+			<color>00000000</color>
+			<fill>0</fill>
+			<outline>0</outline>
+		</PolyStyle>
+	</Style>
+	<Style id="sh_open-diamond">
+		<IconStyle>
+			<color>ff7fff00</color>
+			<scale>2</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/shapes/open-diamond.png</href>
+			</Icon>
+		</IconStyle>
+		<LabelStyle>
+			<color>ff00aaff</color>
+		</LabelStyle>
+		<BalloonStyle>
+			<text>$[description]</text>
+		</BalloonStyle>
+		<LineStyle>
+			<color>00000000</color>
+			<antialias>0</antialias>
+			<width>0.8</width>
+		</LineStyle>
+		<PolyStyle>
+			<color>00000000</color>
+			<fill>0</fill>
+			<outline>0</outline>
+		</PolyStyle>
+	</Style>
+	<StyleMap id="msn_open-diamond">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_open-diamond</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_open-diamond</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="sh_polygon860">
+		<IconStyle>
+			<color>ff00ff00</color>
+			<scale>1.33334</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/shapes/polygon.png</href>
+			</Icon>
+		</IconStyle>
+		<LabelStyle>
+			<color>ff00aaff</color>
+		</LabelStyle>
+		<BalloonStyle>
+			<text>$[description]</text>
+		</BalloonStyle>
+		<LineStyle>
+			<color>00000000</color>
+			<antialias>0</antialias>
+			<width>0.8</width>
+		</LineStyle>
+		<PolyStyle>
+			<color>00000000</color>
+			<fill>0</fill>
+			<outline>0</outline>
+		</PolyStyle>
+	</Style>
+	<Style id="sh_campground234">
+		<IconStyle>
+			<scale>1.33333</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/shapes/campground.png</href>
+			</Icon>
+			<hotSpot x="0.5" y="0" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+		<LabelStyle>
+			<color>ff00aaff</color>
+		</LabelStyle>
+		<BalloonStyle>
+			<text>$[description]</text>
+		</BalloonStyle>
+		<LineStyle>
+			<color>00000000</color>
+			<antialias>0</antialias>
+			<width>0.8</width>
+		</LineStyle>
+		<PolyStyle>
+			<color>00000000</color>
+			<fill>0</fill>
+			<outline>0</outline>
+		</PolyStyle>
+	</Style>
+	<Style id="inline2">
+		<LineStyle>
+			<color>ffdddd00</color>
+			<width>1.5</width>
+		</LineStyle>
+		<PolyStyle>
+			<fill>0</fill>
+		</PolyStyle>
+	</Style>
+	<StyleMap id="msn_polygon981">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_polygon156</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_polygon860</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Folder>
+		<name>Геоглиф &quot;Марри Мэн&quot; / MarreMan</name>
+		<visibility>0</visibility>
+		<Placemark>
+			<name>Maoi statues on Easter Island</name>
+			<visibility>0</visibility>
+			<description><![CDATA[<table width="380" cellspacing="2" cellpadding="5" border="0" align="center">
+    <tbody>
+        <tr>
+            <td colspan="2"><b><font size="2" face="Tahoma" color="Maroon" >
+МОАИ о. Пасхи / Maoi statues on Easter Island 
+</font></b>
+            </td>
+        </tr>
+        <tr>
+            <td><img width="120" height="120" border="1" align="top" alt="" src="http://geolines.ru/netcat_files/83/38/h_21c5e35ac49c977725cf6cfb4d5dd075"
+ /></td>
+            <td><a href="http://www.geolines.ru/research/research_58.html" target="_blank"><img width="258" height="109" border="0" align="bottom" src="http://geolines.ru/netcat_files/18/10/h_8e9e23e85ebf15837ef1d40b05b0e469" alt="" /></a></td>
+        </tr>
+    </tbody>
+</table>]]></description>
+			<LookAt>
+				<longitude>-109.3378009281733</longitude>
+				<latitude>-27.11252812179659</latitude>
+				<altitude>0</altitude>
+				<heading>23.40475612480276</heading>
+				<tilt>0</tilt>
+				<range>17240.89874800181</range>
+				<altitudeMode>relativeToGround</altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_open-diamond</styleUrl>
+			<Point>
+				<coordinates>-109.345375,-27.121225,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Nan Madol</name>
+			<visibility>0</visibility>
+			<description><![CDATA[<table width="380" cellspacing="2" cellpadding="5" border="0" align="center">
+    <tbody>
+        <tr>
+            <td colspan="2"><b><font size="2" face="Tahoma" color="Maroon" >НАН-МАДОЛ / Nan Madol 
+</font></b>
+            </td>
+        </tr>
+        <tr>
+            <td><img width="120" height="120" border="1" align="top" alt="" src="http://geolines.ru/netcat_files/83/38/h_7d9a11d0b4df28391d6eb2ba6d5ed0eb" /></td>
+            <td><a href="http://www.geolines.ru/research/research_386.html" target="_blank"><img width="258" height="109" border="0" align="bottom" src="http://geolines.ru/netcat_files/18/10/h_8e9e23e85ebf15837ef1d40b05b0e469" alt="" /></a></td>
+        </tr>
+    </tbody>
+</table>]]></description>
+			<styleUrl>#msn_polygon981</styleUrl>
+			<Point>
+				<coordinates>158.3357714949002,6.844545562675816,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>ULURU</name>
+			<visibility>0</visibility>
+			<description><![CDATA[<table width="380" cellspacing="2" cellpadding="5" border="0" align="center">
+    <tbody>
+        <tr>
+            <td colspan="2"><b><font size="2" face="Tahoma" color="Maroon" >УЛУРУ / ULURU    </font></b>
+            </td>
+        </tr>
+        <tr>
+            <td><img width="120" height="120" border="1" align="top" alt="" src="http://geolines.ru/netcat_files/83/38/h_738584dadf6ec7baae050c46b5f107db"
+ /></td>
+            <td><a href="http://www.geolines.ru/research/research_84.html" target="_blank"><img width="258" height="109" border="0" align="bottom" src="http://geolines.ru/netcat_files/18/10/h_8e9e23e85ebf15837ef1d40b05b0e469" alt="" /></a></td>
+        </tr>
+    </tbody>
+</table>]]></description>
+			<LookAt>
+				<longitude>131.0826164975653</longitude>
+				<latitude>-25.35467229197498</latitude>
+				<altitude>0</altitude>
+				<heading>-53.45517794942264</heading>
+				<tilt>3.57321274386714e-12</tilt>
+				<range>63066.00113233496</range>
+			</LookAt>
+			<styleUrl>#msn_campground166</styleUrl>
+			<Point>
+				<coordinates>131.0338527777778,-25.34505555555555,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>«Marree Man»</name>
+			<visibility>0</visibility>
+			<description><![CDATA[<table width="380" cellspacing="2" cellpadding="5" border="0" align="center">
+    <tbody>
+        <tr>
+            <td colspan="2"><b><font size="2" face="Tahoma" color="Maroon" >ВЕЛИКАН СТЮАРТА / «Marree Man» 
+</font></b>
+            </td>
+        </tr>
+        <tr>
+            <td><img width="120" height="120" border="1" align="top" alt="" src="http://geolines.ru/netcat_files/83/38/h_c8de1e45ce57dc1da288828622764f74"
+ /></td>
+            <td><a href="http://www.geolines.ru/research/research_96.html" target="_blank"><img width="258" height="109" border="0" align="bottom" src="http://geolines.ru/netcat_files/18/10/h_8e9e23e85ebf15837ef1d40b05b0e469" alt="" /></a></td>
+        </tr>
+    </tbody>
+</table>]]></description>
+			<LookAt>
+				<longitude>137.4774212312579</longitude>
+				<latitude>-29.53529405921374</latitude>
+				<altitude>0</altitude>
+				<heading>0.01188161182678604</heading>
+				<tilt>0</tilt>
+				<range>14469.04072205058</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_star49</styleUrl>
+			<Point>
+				<coordinates>137.4748398338012,-29.52877048713748,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Direction from Marree Man to Nan Madol</name>
+			<visibility>0</visibility>
+			<description><![CDATA[<table cellspacing="1" cellpadding="1" border="0" width="350"><tbody><tr><td><a href="http://geolines.ru/" target="_blank"><img hspace="7" height="100" align="left" width="100" src="http://geolines.ru/netcat_files/18/10/h_a37174d46e07c687c03400ba7b0f8cbd" alt="" /></a>ОРИЕНТАЦИЯ <br><a href="http://geolines.ru/research/research_96.html" target="_blank"><font color="Maroon" ><b>ВЕЛИКАН СТЮАРТА</b></font></a> на <a href="http://geolines.ru/research/research_386.html" target="_blank"><font color="Maroon" ><b>НАН-МАДОЛ</b> </font></a><br><br>ORIENTATION of<br><a href="http://geolines.ru/research/research_96.html" target="_blank"><b>Marree Man</b></a> to <a href="http://geolines.ru/research/research_386.html" target="_blank"><b>Nan Madol</b></a></td></tr></tbody></table><br>Аzimuth - <font size="4" color="Maroon" ><b>32.23</b></font>°&nbsp;&nbsp;&nbsp;Distance - <font size="4" color="Maroon" ><b>4602</b></font> km.]]></description>
+			<styleUrl>#inline4</styleUrl>
+			<LineString>
+				<tessellate>1</tessellate>
+				<coordinates>
+					137.4730726929142,-29.52014803800527,0 158.3417661223655,6.855791389380825,0 
+				</coordinates>
+			</LineString>
+		</Placemark>
+		<Placemark>
+			<name>Easter Island - ULURU</name>
+			<visibility>0</visibility>
+			<description><![CDATA[<table cellspacing="1" cellpadding="1" border="0" width="330"><tbody><tr><td><a href="http://geolines.ru/" target="_blank"><img hspace="7" height="100" align="left" width="100" src="http://geolines.ru/netcat_files/18/10/h_a37174d46e07c687c03400ba7b0f8cbd" alt="" /></a>ОРТОДРОМИЯ <br><a href="http://geolines.ru/research/research_58.html" target="_blank"><b>о. Пасхи</b></a> - <a href="http://geolines.ru/research/research_84.html" target="_blank"><b>УЛУРУ </b></a><br><br>GREAT CIRCLE <br><a href="http://geolines.ru/research/research_58.html" target="_blank"><b>Easter Island</b></a> - <a href="http://geolines.ru/research/research_84.html" target="_blank"><b>ULURU</b></a></td></tr></tbody></table>]]></description>
+			<styleUrl>#inline1</styleUrl>
+			<LineString>
+				<tessellate>1</tessellate>
+				<coordinates>
+					130.995787000263,-25.31791428137174,0 250.7259351364885,-27.06642055201341,0 
+				</coordinates>
+			</LineString>
+		</Placemark>
+		<Placemark>
+			<name>«Marree Man»</name>
+			<visibility>0</visibility>
+			<description><![CDATA[<table height="230" align="center" cellspacing="1" cellpadding="1" border="0" width="270"><tbody><tr><td style="text-align: center;"><p><a href="http://www.geolines.ru/research/research_96.html" target="_blank" title="INFO"><span style="color: rgb(153, 51, 0);"><strong><div align="center">ВЕЛИКАН СТЮАРТА / «Marree Man»</div></strong></span></a></p><br><p><a href="http://files.abovetopsecret.com/images/member/c02571854832.jpg" target="_blank"><img height="195" align="middle" border="1" width="260" src="http://www.geolines.ru/netcat_files/83/38/h_c8de1e45ce57dc1da288828622764f74" title="PHOTO" alt="" /></a></p></td></tr></tbody></table><p style="text-align: center;">&nbsp;</p>]]></description>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<Polygon>
+				<tessellate>1</tessellate>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>
+							137.4650533889766,-29.5262921972884,0 137.4648647431418,-29.52597311736554,0 137.4649964345886,-29.52548284235802,0 137.4653019235074,-29.5251397222796,0 137.4655955951234,-29.52469251862767,0 137.466151927393,-29.52460533995541,0 137.4667099738007,-29.52449003029646,0 137.4671370181293,-29.52439688713196,0 137.4672914661987,-29.52419681632876,0 137.4671277483692,-29.52395648092206,0 137.4668641132558,-29.52389259912648,0 137.4664244357519,-29.52385635565328,0 137.4656705917255,-29.52396690917752,0 137.4651370414823,-29.52394230958371,0 137.4648010521325,-29.52346608991707,0 137.4642006378056,-29.52321275862465,0 137.463489556653,-29.52317995371509,0 137.4628022314512,-29.52328926330576,0 137.4623019833927,-29.52352001974305,0 137.4619547799548,-29.52389885924641,0 137.4616279042144,-29.52447606585014,0 137.4614949605457,-29.5250622198567,0 137.4614895925412,-29.52568246279649,0 137.4617087713908,-29.52634126890088,0 137.4620685283547,-29.52698221741467,0 137.4620386713142,-29.52747227634339,0 137.4617341311574,-29.52795539662492,0 137.4609726689466,-29.52838010199303,0 137.4599730371704,-29.52866384666193,0 137.4587836980959,-29.52903201072224,0 137.4579516178503,-29.5293884521353,0 137.4575311602446,-29.52990491184326,0 137.4575360487701,-29.53035639614638,0 137.4581399076056,-29.53055349499147,0 137.4591862584011,-29.53040436737528,0 137.4602105642985,-29.53008499210754,0 137.4612297213018,-29.52984998110055,0 137.4620855449352,-29.52963563001348,0 137.4628017929474,-29.52958405640002,0 137.4632846950547,-29.53017039914738,0 137.4636875361211,-29.53100687654738,0 137.4642111133996,-29.53198993405048,0 137.4646531464219,-29.53271539787598,0 137.4648263144357,-29.53359768348155,0 137.4649177088192,-29.53475823169448,0 137.4649853461091,-29.53577667001495,0 137.4650223744565,-29.53676549709432,0 137.4652856865777,-29.53776476236994,0 137.4656374238053,-29.53890913036958,0 137.4662075060193,-29.54011446523025,0 137.4664678772002,-29.54080509725722,0 137.466862287476,-29.54124654155483,0 137.4673881745359,-29.54181878335094,0 137.4675946465758,-29.54242363141131,0 137.4678575020924,-29.54297945511498,0 137.4682518533858,-29.54361703960362,0 137.4688340168563,-29.5444998561358,0 137.4691908315396,-29.5450393554031,0 137.46928466552,-29.54538264177014,0 137.4692094136542,-29.54567685083664,0 137.4687659401978,-29.54601403341191,0 137.4681311546401,-29.54632322805801,0 137.4675593092927,-29.54666352529029,0 137.4670521166032,-29.54700680071091,0 137.4671608595151,-29.54716385122606,0 137.4674655406599,-29.5471386666024,0 137.4685972497827,-29.546654943,0 137.4697492936824,-29.54636957529653,0 137.4704384641406,-29.54623210065058,0 137.4708400982668,-29.54602497225243,0 137.4710171427054,-29.54577929545647,0 137.4709372696444,-29.54549358223515,0 137.4702789121765,-29.54512481683923,0 137.4698485904688,-29.54458182749736,0 137.4695669602983,-29.54394427432853,0 137.4694356216348,-29.54337214086289,0 137.4693230827238,-29.54276732077291,0 137.4691621112532,-29.54216843709311,0 137.4689308856307,-29.54170653363331,0 137.4686284093738,-29.54121430208331,0 137.4683091668772,-29.5407238469755,0 137.4680274438938,-29.54041320380652,0 137.4677645149583,-29.54008621774474,0 137.4675955383835,-29.53972656263916,0 137.4675581269577,-29.53921982604917,0 137.4675878873665,-29.53873971412006,0 137.4676938381076,-29.5375318442173,0 137.4677758167261,-29.53671771354696,0 137.4677573940653,-29.53595535811873,0 137.4678528632263,-29.53545208327619,0 137.4680587993797,-29.53526414439661,0 137.4683820516009,-29.53527903989673,0 137.4686984560686,-29.53540643515502,0 137.46918142277,-29.53599276907839,0 137.4696065899672,-29.53646361941974,0 137.4702002357596,-29.53682941088411,0 137.4709112083803,-29.53739802741932,0 137.4715017023752,-29.53781555009102,0 137.4718766207623,-29.53814190765457,0 137.4723586959595,-29.53843721325317,0 137.4725907898469,-29.53863924166553,0 137.4730013882931,-29.5391054316421,0 137.4732512900266,-29.539493902211,0 137.4735369266174,-29.5398202327783,0 137.4738225776986,-29.54009995260106,0 137.4746617322517,-29.54075266506791,0 137.4751616401515,-29.54121886646219,0 137.4756615581384,-29.54166953063827,0 137.4760650011825,-29.54220423708764,0 137.4763031102434,-29.54255363552267,0 137.4764986340059,-29.54307029541526,0 137.4770073497808,-29.54323472123603,0 137.4777508794884,-29.54301855785661,0 137.4783765443796,-29.54298842927288,0 137.4789674544238,-29.54292805282905,0 137.4796626234863,-29.5429281690995,0 137.4799222911549,-29.54274832991603,0 137.4798269396277,-29.54256059666822,0 137.4795769407189,-29.5424673353714,0 137.4791304984021,-29.54237404045338,0 137.4783804534961,-29.54231176437451,0 137.4775407448393,-29.54236121942478,0 137.4770722264132,-29.54230681074206,0 137.4768044133591,-29.54202709692383,0 137.4766080628895,-29.54163863958333,0 137.4762867790979,-29.54095496099158,0 137.4758404791159,-29.54033340663164,0 137.4754834361441,-29.53986723640839,0 137.4749478548936,-29.53926119999051,0 137.474233706984,-29.53863958808095,0 137.4735552483353,-29.53814227211884,0 137.4730374789932,-29.53776927975546,0 137.4726983191708,-29.53728756513524,0 137.4724127472337,-29.53675924852701,0 137.4720201156398,-29.53593570064076,0 137.4717289015598,-29.53529645610274,0 137.4711633930218,-29.53441285464421,0 137.4706184371331,-29.53383514027966,0 137.4700785875869,-29.53317421349545,0 137.4695463852719,-29.53233180107532,0 137.4691212365915,-29.53186096178081,0 137.4686925923029,-29.5314266421619,0 137.4681382353741,-29.53096957094987,0 137.467863183518,-29.53043078502503,0 137.4677230046146,-29.52980356677926,0 137.4676095207776,-29.5287378754892,0 137.4675427648776,-29.52788125604248,0 137.4677583052194,-29.52727042944638,0 137.4682249262473,-29.5269298216584,0 137.4688678311561,-29.5266231982859,0 137.4697153020497,-29.52636047596901,0 137.4702203233589,-29.52623106839605,0 137.4707835021901,-29.52603137502595,0 137.4715050125402,-29.52529621255088,0 137.4718874091819,-29.52487410567057,0 137.4721060739617,-29.52421166581372,0 137.472287248706,-29.52367682374216,0 137.4723802040664,-29.52322814375639,0 137.472342934,-29.52277517481331,0 137.4723221415964,-29.52212646283806,0 137.4725423792817,-29.5214382047474,0 137.4727157080051,-29.52103231470726,0 137.4731886010875,-29.52058847345177,0 137.4733644077663,-29.52036853702959,0 137.4734138309962,-29.5200887814662,0 137.4736023242193,-29.51953276938228,0 137.4782337518216,-29.51313915726389,0 137.4780227405412,-29.51308178041752,0 137.4735039946793,-29.51916604779532,0 137.4732655748099,-29.51933378944479,0 137.4730362851006,-29.51942648975907,0 137.4727727366894,-29.51943878825375,0 137.4724375628447,-29.51962077397519,0 137.4721567643092,-29.5199744827348,0 137.4720953630093,-29.52045110915278,0 137.4720560170483,-29.52109797057256,0 137.4719843488295,-29.52174334367364,0 137.4718854905854,-29.52230285535521,0 137.4718189514641,-29.52286385671075,0 137.4716332177325,-29.52337708482848,0 137.4712451732918,-29.52389507386025,0 137.4706563525307,-29.52451662464181,0 137.4700080168951,-29.52505082039716,0 137.4692083362974,-29.52540882011193,0 137.4685788186363,-29.52563364076237,0 137.4676924359982,-29.52581841717273,0 137.4669353372788,-29.52600914731092,0 137.4663654988599,-29.52622336258352,0 137.4656727338118,-29.5263724824744,0 137.4650533889766,-29.5262921972884,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+	</Folder>
+</Document>
+</kml>

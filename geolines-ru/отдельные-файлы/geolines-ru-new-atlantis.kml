@@ -1,0 +1,752 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+<Document>
+	<name>geolines-ru-new-atlantis.kml</name>
+	<Style id="sn_ylw-pushpin44010">
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<LineStyle>
+			<color>cc19f7e5</color>
+			<width>1.5</width>
+		</LineStyle>
+	</Style>
+	<Style id="sn_ylw-pushpin090">
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<LineStyle>
+			<color>ccffffaa</color>
+			<width>0.9</width>
+		</LineStyle>
+	</Style>
+	<Style id="sh_ylw-pushpin83000">
+		<IconStyle>
+			<scale>1.3</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<LineStyle>
+			<color>b20000ff</color>
+			<width>1.5</width>
+		</LineStyle>
+		<PolyStyle>
+			<fill>0</fill>
+		</PolyStyle>
+	</Style>
+	<Style id="sn_ylw-pushpin12140">
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<LineStyle>
+			<color>b27f00ff</color>
+			<width>1.5</width>
+		</LineStyle>
+		<PolyStyle>
+			<color>7fffffff</color>
+			<fill>0</fill>
+		</PolyStyle>
+	</Style>
+	<Style id="sh_ylw-pushpin169100">
+		<IconStyle>
+			<scale>1.3</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<LineStyle>
+			<color>b27f00ff</color>
+			<width>1.5</width>
+		</LineStyle>
+		<PolyStyle>
+			<color>7fffffff</color>
+			<fill>0</fill>
+		</PolyStyle>
+	</Style>
+	<StyleMap id="msn_shaded_dot136">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_shaded_dot136</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_shaded_dot137</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="msn_ylw-pushpin241100">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_ylw-pushpin35120</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_ylw-pushpin83000</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="msn_ylw-pushpin180000">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_ylw-pushpin520000</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_ylw-pushpin340000</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="sn_ylw-pushpin520000">
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<LineStyle>
+			<color>ccdfffb9</color>
+			<width>0.9</width>
+		</LineStyle>
+	</Style>
+	<Style id="sh_ylw-pushpin382000">
+		<IconStyle>
+			<scale>1.3</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<LineStyle>
+			<color>cc19f7e5</color>
+			<width>1.5</width>
+		</LineStyle>
+	</Style>
+	<StyleMap id="msn_ylw-pushpin4170">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_ylw-pushpin12140</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_ylw-pushpin11170</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="msn_ylw-pushpin51110">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_ylw-pushpin44010</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_ylw-pushpin210210</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="msn_ylw-pushpin56010">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_ylw-pushpin142200</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_ylw-pushpin151010</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="sn_ylw-pushpin57000">
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<LineStyle>
+			<color>cc19f7e5</color>
+			<width>1.5</width>
+		</LineStyle>
+	</Style>
+	<Style id="sh_ylw-pushpin210210">
+		<IconStyle>
+			<scale>1.3</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<LineStyle>
+			<color>cc19f7e5</color>
+			<width>1.5</width>
+		</LineStyle>
+	</Style>
+	<Style id="sh_ylw-pushpin151010">
+		<IconStyle>
+			<scale>1.3</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<LineStyle>
+			<color>ccffffaa</color>
+			<width>0.9</width>
+		</LineStyle>
+	</Style>
+	<Style id="sh_ylw-pushpin11170">
+		<IconStyle>
+			<scale>1.3</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<LineStyle>
+			<color>b27f00ff</color>
+			<width>1.5</width>
+		</LineStyle>
+		<PolyStyle>
+			<color>7fffffff</color>
+			<fill>0</fill>
+		</PolyStyle>
+	</Style>
+	<Style id="sh_ylw-pushpin6140">
+		<IconStyle>
+			<scale>1.3</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<LineStyle>
+			<color>b27f00ff</color>
+			<width>1.5</width>
+		</LineStyle>
+		<PolyStyle>
+			<color>7fffffff</color>
+			<fill>0</fill>
+		</PolyStyle>
+	</Style>
+	<Style id="sn_ylw-pushpin142200">
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<LineStyle>
+			<color>ccffffaa</color>
+			<width>0.9</width>
+		</LineStyle>
+	</Style>
+	<Style id="sn_ylw-pushpin35120">
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<LineStyle>
+			<color>b20000ff</color>
+			<width>1.5</width>
+		</LineStyle>
+		<PolyStyle>
+			<fill>0</fill>
+		</PolyStyle>
+	</Style>
+	<StyleMap id="msn_ylw-pushpin141100">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_ylw-pushpin14200</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_ylw-pushpin6140</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="msn_ylw-pushpin26130">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_ylw-pushpin090</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_ylw-pushpin2761</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="msn_ylw-pushpin94100">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_ylw-pushpin57000</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_ylw-pushpin382000</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="sh_ylw-pushpin2761">
+		<IconStyle>
+			<scale>1.3</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<LineStyle>
+			<color>ccffffaa</color>
+			<width>0.9</width>
+		</LineStyle>
+	</Style>
+	<Style id="sh_ylw-pushpin340000">
+		<IconStyle>
+			<scale>1.3</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<LineStyle>
+			<color>ccdfffb9</color>
+			<width>0.9</width>
+		</LineStyle>
+	</Style>
+	<StyleMap id="msn_ylw-pushpin190100">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_ylw-pushpin54000</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_ylw-pushpin169100</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="sn_ylw-pushpin14200">
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<LineStyle>
+			<color>b27f00ff</color>
+			<width>1.5</width>
+		</LineStyle>
+		<PolyStyle>
+			<color>7fffffff</color>
+			<fill>0</fill>
+		</PolyStyle>
+	</Style>
+	<Style id="sh_shaded_dot137">
+		<IconStyle>
+			<color>ff00ff00</color>
+			<scale>0.933333</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/shapes/shaded_dot.png</href>
+			</Icon>
+		</IconStyle>
+		<LabelStyle>
+			<color>ff00aaff</color>
+		</LabelStyle>
+		<BalloonStyle>
+			<text>$[description]</text>
+		</BalloonStyle>
+		<LineStyle>
+			<color>00000000</color>
+			<antialias>0</antialias>
+		</LineStyle>
+		<PolyStyle>
+			<color>00000000</color>
+			<fill>0</fill>
+			<outline>0</outline>
+		</PolyStyle>
+	</Style>
+	<Style id="sn_ylw-pushpin54000">
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<LineStyle>
+			<color>b27f00ff</color>
+			<width>1.5</width>
+		</LineStyle>
+		<PolyStyle>
+			<color>7fffffff</color>
+			<fill>0</fill>
+		</PolyStyle>
+	</Style>
+	<Style id="sn_shaded_dot136">
+		<IconStyle>
+			<color>ff00ff00</color>
+			<scale>0.7</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/shapes/shaded_dot.png</href>
+			</Icon>
+		</IconStyle>
+		<LabelStyle>
+			<color>ff00aaff</color>
+			<scale>0</scale>
+		</LabelStyle>
+		<BalloonStyle>
+			<text>$[description]</text>
+		</BalloonStyle>
+		<LineStyle>
+			<color>00000000</color>
+			<antialias>0</antialias>
+		</LineStyle>
+		<PolyStyle>
+			<color>00000000</color>
+			<fill>0</fill>
+			<outline>0</outline>
+		</PolyStyle>
+	</Style>
+	<Folder>
+		<name>Новая Антлантида (англ.) / THE NEW ATLANTIS</name>
+		<visibility>0</visibility>
+		<description><![CDATA[<hr><a href="http://www.GEOLINES.RU/"><img height="100" width="100" align="left" alt="" src="http://www.geolines.ru/netcat_files/18/10/h_5557d26ba055c18634ea32a73d26a854"/></a>When the site for Washington D.C. was chosen to be the national capital of the United States, it was an undeveloped area. George Washington selected Pierre L'enfant to design the layout of the city. George Washington was the highest ranking member of the Masons at the time and the Masons were ardent students of ancient civilizations such as those of the ancient Egyptians and Greeks. This is evidenced by many of the monuments in and around the city. It has also been suggested that the streets, the broad diagonal avenues, and the blocks and circles left open for monumental structures, incorporated geometric designs of Masonic relevance.
+ <hr><img height="320" width="430"align="left" src="http://www.geolines.ru/netcat_files/18/10/h_3f0d29028c839d982de1e49810b56bab"><br><div align="center"><li type=square></li><a href="http://www.geolines.ru/netcat_files/18/10/h_3f0d29028c839d982de1e49810b56bab"><b>PHOTO</b></a></br><li type=square></li><a href="http://www.geolines.ru/publications/rus_9.html"><b>ИНФОРМАЦИЯ</b></a><br><li type=square></li><a href="http://www.geolines.ru/eng/publications/eng_3.html"><b>ENGLISH INFORMATION</b></a><br></div><hr><p align="left"><SMALL>PHOTO <a href="http://www.geolines.ru/">GEOLINES.RU</a>]]></description>
+		<Folder>
+			<name>WASHINGTON Lines</name>
+			<visibility>0</visibility>
+			<Placemark>
+				<name>pentagram</name>
+				<visibility>0</visibility>
+				<styleUrl>#msn_ylw-pushpin241100</styleUrl>
+				<Polygon>
+					<tessellate>1</tessellate>
+					<outerBoundaryIs>
+						<LinearRing>
+							<coordinates>
+								-77.04343588219756,38.90964433951146,0 -77.03657031741,38.89785728623107,0 -77.02963748481407,38.90964598821569,0 -77.05011482328325,38.90252068037287,0 -77.02292941764826,38.90252395040425,0 -77.04343588219756,38.90964433951146,0 
+							</coordinates>
+						</LinearRing>
+					</outerBoundaryIs>
+				</Polygon>
+			</Placemark>
+			<Placemark>
+				<name>hexagram 1</name>
+				<visibility>0</visibility>
+				<styleUrl>#msn_ylw-pushpin141100</styleUrl>
+				<Polygon>
+					<tessellate>1</tessellate>
+					<outerBoundaryIs>
+						<LinearRing>
+							<coordinates>
+								-77.02959670943791,38.89544069577649,0 -77.0296374918906,38.90964473495222,0 -77.05011382732921,38.90252068870092,0 -77.02959670943791,38.89544069577649,0 
+							</coordinates>
+						</LinearRing>
+					</outerBoundaryIs>
+				</Polygon>
+			</Placemark>
+			<Placemark>
+				<name>hexagram 2</name>
+				<visibility>0</visibility>
+				<styleUrl>#msn_ylw-pushpin190100</styleUrl>
+				<Polygon>
+					<tessellate>1</tessellate>
+					<outerBoundaryIs>
+						<LinearRing>
+							<coordinates>
+								-77.04343367829291,38.90964405702755,0 -77.04346597414184,38.89549341829177,0 -77.02292860886226,38.90252385816255,0 -77.04343367829291,38.90964405702755,0 
+							</coordinates>
+						</LinearRing>
+					</outerBoundaryIs>
+				</Polygon>
+			</Placemark>
+			<Placemark>
+				<name>District of Columbia</name>
+				<visibility>0</visibility>
+				<styleUrl>#msn_ylw-pushpin4170</styleUrl>
+				<Polygon>
+					<tessellate>1</tessellate>
+					<outerBoundaryIs>
+						<LinearRing>
+							<coordinates>
+								-77.03673318022874,38.83954520889695,0 -76.90525100354185,38.94230193396317,0 -77.03614931525833,39.04482894500097,0 -77.1681712268645,38.9422393802794,0 -77.03673318022874,38.83954520889695,0 
+							</coordinates>
+						</LinearRing>
+					</outerBoundaryIs>
+				</Polygon>
+			</Placemark>
+			<Placemark>
+				<name>diagonal 1</name>
+				<visibility>0</visibility>
+				<styleUrl>#msn_ylw-pushpin26130</styleUrl>
+				<LineString>
+					<tessellate>1</tessellate>
+					<coordinates>
+						-77.16815059958985,38.94222945153714,0 -76.90526838397088,38.94230742318512,0 
+					</coordinates>
+				</LineString>
+			</Placemark>
+			<Placemark>
+				<name>diagonal 2</name>
+				<visibility>0</visibility>
+				<styleUrl>#msn_ylw-pushpin56010</styleUrl>
+				<LineString>
+					<tessellate>1</tessellate>
+					<coordinates>
+						-77.03614491702743,39.04482245784744,0 -77.03673498055028,38.83955742988498,0 
+					</coordinates>
+				</LineString>
+			</Placemark>
+			<Placemark>
+				<name>Masonic Temples</name>
+				<visibility>0</visibility>
+				<styleUrl>#msn_ylw-pushpin180000</styleUrl>
+				<LineString>
+					<tessellate>1</tessellate>
+					<coordinates>
+						-77.06685253502012,38.8045920113918,0 -77.02109136392534,38.96693861589493,0 
+					</coordinates>
+				</LineString>
+			</Placemark>
+		</Folder>
+		<Folder>
+			<name>WASHINGTON Objects</name>
+			<visibility>0</visibility>
+			<Placemark>
+				<name>Old Post Office</name>
+				<visibility>0</visibility>
+				<description><![CDATA[<b>Old Post Office </b>
+<div align="center" dir="ltr"><table width="300"><tr><td colspan="2"><h2><font size="3"><b></b></font></h2><tr><td colspan="2"><img src="http://mw2.google.com/mw-panoramio/photos/medium/200869.jpg" width="300" height="225"/></a></td></tr><tr><td><p align="left"><font size="3">PHOTO <a href="http://www.panoramio.com/user/18925?with_photo_id=200869">Marco Ferrari</a></font></p></td><td><p align="right"><a href="http://geolines.ru/PHOTOOBJECT/temples-palaces/NEW-ATLANTIS/NEW-ATLANTIS_905.html" title="PHOTO" target="_blank"><img height="30" width="160" align="right" alt="" src="http://www.geolines.ru/netcat_files/18/10/h_e7cd08f11efb85394452007d025a3e13"/></a></p></td></tr></table></div>]]></description>
+				<styleUrl>#msn_shaded_dot136</styleUrl>
+				<Point>
+					<coordinates>-77.02770073708646,38.89443540604067,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>George Washington Masonic Memorial</name>
+				<visibility>0</visibility>
+				<description><![CDATA[<b>George Washington Masonic Memorial</b>
+<div align="center" dir="ltr"><table width="300"><tr><td colspan="2"><h2><font size="3"><b></b></font></h2><tr><td colspan="2"><img src="http://mw2.google.com/mw-panoramio/photos/medium/5636095.jpg" width="300" height="225"/></a></td></tr><tr><td><p align="left"><font size="3">PHOTO <a href="http://www.panoramio.com/user/31761?with_photo_id=5636095">Buck Cash</a></font></p></td><td><p align="right"><a href="http://geolines.ru/PHOTOOBJECT/temples-palaces/NEW-ATLANTIS/NEW-ATLANTIS_906.html" title="PHOTO" target="_blank"><img height="30" width="160" align="right" alt="" src="http://www.geolines.ru/netcat_files/18/10/h_e7cd08f11efb85394452007d025a3e13"/></a></p></td></tr></table></div>]]></description>
+				<styleUrl>#msn_shaded_dot136</styleUrl>
+				<Point>
+					<coordinates>-77.06595096285929,38.8074457425265,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>National Archives of the USA</name>
+				<visibility>0</visibility>
+				<description><![CDATA[<b>National Archives of the USA </b>
+<div align="center" dir="ltr"><table width="300"><tr><td colspan="2"><h2><font size="3"><b></b></font></h2><tr><td colspan="2"><img src="http://mw2.google.com/mw-panoramio/photos/medium/1401617.jpg" width="300" height="225"/></a></td></tr><tr><td><p align="left"><font size="3">PHOTO <a href="http://www.panoramio.com/user/68968?with_photo_id=1401617">Leo Weber</a></font></p></td><td><p align="right"><a href="http://geolines.ru/PHOTOOBJECT/temples-palaces/NEW-ATLANTIS/NEW-ATLANTIS_903.html" title="PHOTO" target="_blank"><img height="30" width="160" align="right" alt="" src="http://www.geolines.ru/netcat_files/18/10/h_e7cd08f11efb85394452007d025a3e13"/></a></p></td></tr></table></div>]]></description>
+				<styleUrl>#msn_shaded_dot136</styleUrl>
+				<Point>
+					<coordinates>-77.02295123599951,38.89281862664847,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Navy Memorial</name>
+				<visibility>0</visibility>
+				<description><![CDATA[<b>Navy Memorial </b>
+<div align="center" dir="ltr"><table width="300"><tr><td colspan="2"><h2><font size="3"><b></b></font></h2><tr><td colspan="2"><img src="http://mw2.google.com/mw-panoramio/photos/medium/2545185.jpg" width="300" height="225"/></a></td></tr><tr><td><p align="left"><font size="3">PHOTO <a href="http://www.panoramio.com/user/140581?with_photo_id=2545185">sjohns6</a></font></p></td><td><p align="right"><a href="http://geolines.ru/PHOTOOBJECT/temples-palaces/NEW-ATLANTIS/NEW-ATLANTIS_931.html" title="PHOTO" target="_blank"><img height="30" width="160" align="right" alt="" src="http://www.geolines.ru/netcat_files/18/10/h_e7cd08f11efb85394452007d025a3e13"/></a></p></td></tr></table></div>]]></description>
+				<styleUrl>#msn_shaded_dot136</styleUrl>
+				<Point>
+					<coordinates>-77.02294712448051,38.89409800790981,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Washington Monument</name>
+				<visibility>0</visibility>
+				<description><![CDATA[<b>Washington Monument </b>
+<div align="center" dir="ltr"><table width="300"><tr><td colspan="2"><h2><font size="3"><b></b></font></h2><tr><td colspan="2"><img src="http://mw2.google.com/mw-panoramio/photos/medium/10139006.jpg" width="300" height="225"/></a></td></tr><tr><td><p align="left"><font size="3">PHOTO <a href="http://www.panoramio.com/user/1641251?with_photo_id=10139006">nikosey</a></font></p></td><td><p align="right"><a href="http://geolines.ru/PHOTOOBJECT/temples-palaces/NEW-ATLANTIS/NEW-ATLANTIS_932.html" title="PHOTO" target="_blank"><img height="30" width="160" align="right" alt="" src="http://www.geolines.ru/netcat_files/18/10/h_e7cd08f11efb85394452007d025a3e13"/></a></p></td></tr></table></div>]]></description>
+				<styleUrl>#msn_shaded_dot136</styleUrl>
+				<Point>
+					<coordinates>-77.03523841021793,38.88947159773805,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Capitol</name>
+				<visibility>0</visibility>
+				<description><![CDATA[<b>Capitol </b>
+<div align="center" dir="ltr"><table width="300"><tr><td colspan="2"><h2><font size="3"><b></b></font></h2><tr><td colspan="2"><img src="http://mw2.google.com/mw-panoramio/photos/medium/925648.jpg" width="300" height="225"/></a></td></tr><tr><td><p align="left"><font size="3">PHOTO <a href="http://www.panoramio.com/user/185793?with_photo_id=925648">rkollman</a></font></p></td><td><p align="right"><a href="http://geolines.ru/PHOTOOBJECT/temples-palaces/NEW-ATLANTIS/NEW-ATLANTIS_933.html" title="PHOTO" target="_blank"><img height="30" width="160" align="right" alt="" src="http://www.geolines.ru/netcat_files/18/10/h_e7cd08f11efb85394452007d025a3e13"/></a></p></td></tr></table></div>]]></description>
+				<styleUrl>#msn_shaded_dot136</styleUrl>
+				<Point>
+					<coordinates>-77.00908190476511,38.88959181569735,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Old Patent Office Building</name>
+				<visibility>0</visibility>
+				<description><![CDATA[<b>Old Patent Office Building</b>
+<div align="center" dir="ltr"><table width="300"><tr><td colspan="2"><h2><font size="3"><b></b></font></h2><tr><td colspan="2"><img src="http://mw2.google.com/mw-panoramio/photos/medium/3249708.jpg" width="300" height="225"/></a></td></tr><tr><td><p align="left"><font size="3">PHOTO <a href="http://www.panoramio.com/user/350608?with_photo_id=3249708">36teen</a></font></p></td><td><p align="right"><a href="http://geolines.ru/PHOTOOBJECT/temples-palaces/NEW-ATLANTIS/NEW-ATLANTIS_934.html" title="PHOTO" target="_blank"><img height="30" width="160" align="right" alt="" src="http://www.geolines.ru/netcat_files/18/10/h_e7cd08f11efb85394452007d025a3e13"/></a></p></td></tr></table></div>]]></description>
+				<styleUrl>#msn_shaded_dot136</styleUrl>
+				<Point>
+					<coordinates>-77.02293320873122,38.89783039187243,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Masonic Temple</name>
+				<visibility>0</visibility>
+				<description><![CDATA[<b>Masonic Temple</b>
+<div align="center" dir="ltr"><table width="300"><tr><td colspan="2"><h2><font size="3"><b></b></font></h2><tr><td colspan="2"><img src="http://mw2.google.com/mw-panoramio/photos/medium/5485039.jpg" width="300" height="225"/></a></td></tr><tr><td><p align="left"><font size="3">PHOTO <a href="http://www.panoramio.com/user/642506?with_photo_id=5485039">Ivan Anchev</a></font></p></td><td><p align="right"><a href="http://geolines.ru/PHOTOOBJECT/temples-palaces/NEW-ATLANTIS/NEW-ATLANTIS_935.html" title="PHOTO" target="_blank"><img height="30" width="160" align="right" alt="" src="http://www.geolines.ru/netcat_files/18/10/h_e7cd08f11efb85394452007d025a3e13"/></a></p></td></tr></table></div>]]></description>
+				<styleUrl>#msn_shaded_dot136</styleUrl>
+				<Point>
+					<coordinates>-77.03599,38.913709,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Jefferson Memorial</name>
+				<visibility>0</visibility>
+				<description><![CDATA[<b>Jefferson Memorial </b>
+<div align="center" dir="ltr"><table width="300"><tr><td colspan="2"><h2><font size="3"><b></b></font></h2><tr><td colspan="2"><img src="http://mw2.google.com/mw-panoramio/photos/medium/78072.jpg" width="300" height="225"/></a></td></tr><tr><td><p align="left"><font size="3">PHOTO <a href="http://www.panoramio.com/user/9560?with_photo_id=78072">Benjamin Aguilar</a></font></p></td><td><p align="right"><a href="http://geolines.ru/PHOTOOBJECT/temples-palaces/NEW-ATLANTIS/NEW-ATLANTIS_936.html" title="PHOTO" target="_blank"><img height="30" width="160" align="right" alt="" src="http://www.geolines.ru/netcat_files/18/10/h_e7cd08f11efb85394452007d025a3e13"/></a></p></td></tr></table></div>]]></description>
+				<styleUrl>#msn_shaded_dot136</styleUrl>
+				<Point>
+					<coordinates>-77.03662667712022,38.8813551799468,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Lincoln Memorial</name>
+				<visibility>0</visibility>
+				<description><![CDATA[<b>Lincoln Memorial</b>
+<div align="center" dir="ltr"><table width="300"><tr><td colspan="2"><h2><font size="3"><b></b></font></h2><tr><td colspan="2"><img src="http://mw2.google.com/mw-panoramio/photos/medium/291759.jpg" width="300" height="225"/></a></td></tr><tr><td><p align="left"><font size="3">PHOTO <a href="http://www.panoramio.com/user/61396?with_photo_id=292232">FishF1</a></font></p></td><td><p align="right"><a href="http://geolines.ru/PHOTOOBJECT/temples-palaces/NEW-ATLANTIS/NEW-ATLANTIS_937.html" title="PHOTO" target="_blank"><img height="30" width="160" align="right" alt="" src="http://www.geolines.ru/netcat_files/18/10/h_e7cd08f11efb85394452007d025a3e13"/></a></p></td></tr></table></div>]]></description>
+				<styleUrl>#msn_shaded_dot136</styleUrl>
+				<Point>
+					<coordinates>-77.05019231296551,38.8895065874776,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>John F. Kennedy Grave</name>
+				<visibility>0</visibility>
+				<description><![CDATA[<b>John F. Kennedy Grave</b>
+<div align="center" dir="ltr"><table width="300"><tr><td colspan="2"><h2><font size="3"><b></b></font></h2><tr><td colspan="2"><img src="http://mw2.google.com/mw-panoramio/photos/medium/292232.jpg" width="300" height="225"/></a></td></tr><tr><td><p align="left"><font size="3">PHOTO <a href="http://www.panoramio.com/user/61396?with_photo_id=292232">FishF1</a></font></p></td><td><p align="right"><a href="http://geolines.ru/PHOTOOBJECT/temples-palaces/NEW-ATLANTIS/NEW-ATLANTIS_938.html" title="PHOTO" target="_blank"><img height="30" width="160" align="right" alt="" src="http://www.geolines.ru/netcat_files/18/10/h_e7cd08f11efb85394452007d025a3e13"/></a></p></td></tr></table></div>]]></description>
+				<styleUrl>#msn_shaded_dot136</styleUrl>
+				<Point>
+					<coordinates>-77.07147458076658,38.88152756482779,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>The National Cathedral</name>
+				<visibility>0</visibility>
+				<description><![CDATA[<b>The National Cathedral </b>
+<div align="center" dir="ltr"><table width="300"><tr><td colspan="2"><h2><font size="3"><b></b></font></h2><tr><td colspan="2"><img src="http://mw2.google.com/mw-panoramio/photos/medium/2738803.jpg" width="300" height="225"/></a></td></tr><tr><td><p align="left"><font size="3">PHOTO <a href="http://www.panoramio.com/user/563976?with_photo_id=2738803">gematrix576</a></font></p></td><td><p align="right"><a href="http://geolines.ru/PHOTOOBJECT/temples-palaces/NEW-ATLANTIS/NEW-ATLANTIS_939.html" title="PHOTO" target="_blank"><img height="30" width="160" align="right" alt="" src="http://www.geolines.ru/netcat_files/18/10/h_e7cd08f11efb85394452007d025a3e13"/></a></p></td></tr></table></div>]]></description>
+				<styleUrl>#msn_shaded_dot136</styleUrl>
+				<Point>
+					<coordinates>-77.07091567704582,38.93024488300215,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Connecticut Avenue, NW</name>
+				<visibility>0</visibility>
+				<description><![CDATA[<b>Connecticut Avenue, NW</b>
+<div align="center" dir="ltr"><table width="300"><tr><td colspan="2"><h2><font size="3"><b></b></font></h2><tr><td colspan="2"><img src="http://mw2.google.com/mw-panoramio/photos/medium/2191361.jpg" width="300" height="225"/></a></td></tr><tr><td><p align="left"><font size="3">PHOTO <a href="http://www.panoramio.com/user/461661?with_photo_id=2191361">mrhuston</a></font></p></td><td><p align="right"><a href="http://geolines.ru/PHOTOOBJECT/temples-palaces/NEW-ATLANTIS/NEW-ATLANTIS_940.html" title="PHOTO" target="_blank"><img height="30" width="160" align="right" alt="" src="http://www.geolines.ru/netcat_files/18/10/h_e7cd08f11efb85394452007d025a3e13"/></a></p></td></tr></table></div>]]></description>
+				<styleUrl>#msn_shaded_dot136</styleUrl>
+				<Point>
+					<coordinates>-77.0411127416228,38.9056506284903,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Thomas Circle</name>
+				<visibility>0</visibility>
+				<description><![CDATA[<b>Thomas Circle</b>
+<div align="center" dir="ltr"><table width="300"><tr><td colspan="2"><h2><font size="3"><b></b></font></h2><tr><td colspan="2"><img src="http://mw2.google.com/mw-panoramio/photos/medium/17799952.jpg" width="300" height="225"/></a></td></tr><tr><td><p align="left"><font size="3">PHOTO <a href="http://www.panoramio.com/user/699212?with_photo_id=17799952">Lee Iljoo</a></font></p></td><td><p align="right"><a href="http://geolines.ru/PHOTOOBJECT/temples-palaces/NEW-ATLANTIS/NEW-ATLANTIS_941.html" title="PHOTO" target="_blank"><img height="30" width="160" align="right" alt="" src="http://www.geolines.ru/netcat_files/18/10/h_e7cd08f11efb85394452007d025a3e13"/></a></p></td></tr></table></div>]]></description>
+				<styleUrl>#msn_shaded_dot136</styleUrl>
+				<Point>
+					<coordinates>-77.0319692947396,38.90565373601493,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Scott Circle</name>
+				<visibility>0</visibility>
+				<description><![CDATA[<b>Scott Circle</b>
+<div align="center" dir="ltr"><table width="300"><tr><td colspan="2"><h2><font size="3"><b></b></font></h2><tr><td colspan="2"><img src="http://mw2.google.com/mw-panoramio/photos/medium/7449839.jpg" width="300" height="225"/></a></td></tr><tr><td><p align="left"><font size="3">PHOTO <a href="http://www.panoramio.com/user/1129058?with_photo_id=7449839">WasWoWashington</a></font></p></td><td><p align="right"><a href="http://geolines.ru/PHOTOOBJECT/temples-palaces/NEW-ATLANTIS/NEW-ATLANTIS_942.html" title="PHOTO" target="_blank"><img height="30" width="160" align="right" alt="" src="http://www.geolines.ru/netcat_files/18/10/h_e7cd08f11efb85394452007d025a3e13"/></a></p></td></tr></table></div>]]></description>
+				<styleUrl>#msn_shaded_dot136</styleUrl>
+				<Point>
+					<coordinates>-77.03653280601975,38.90724678591413,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Washington Circle</name>
+				<visibility>0</visibility>
+				<description><![CDATA[<b>Washington Circle </b>
+<div align="center" dir="ltr"><table width="300"><tr><td colspan="2"><h2><font size="3"><b></b></font></h2><tr><td colspan="2"><img src="http://mw2.google.com/mw-panoramio/photos/medium/24860501.jpg" width="300" height="225"/></a></td></tr><tr><td><p align="left"><font size="3">PHOTO <a href="http://www.panoramio.com/user/3402638?with_photo_id=24860501">emkaplin</a></font></p></td><td><p align="right"><a href="http://geolines.ru/PHOTOOBJECT/temples-palaces/NEW-ATLANTIS/NEW-ATLANTIS_943.html" title="PHOTO" target="_blank"><img height="30" width="160" align="right" alt="" src="http://www.geolines.ru/netcat_files/18/10/h_e7cd08f11efb85394452007d025a3e13"/></a></p></td></tr></table></div>]]></description>
+				<styleUrl>#msn_shaded_dot136</styleUrl>
+				<Point>
+					<coordinates>-77.05012166494784,38.90252009472569,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Historical Society of Washington</name>
+				<visibility>0</visibility>
+				<description><![CDATA[<b>Historical Society of Washington</b>
+<div align="center" dir="ltr"><table width="250"><tr><td colspan="2"><h2><font size="3"><b></b></font></h2><tr><td colspan="2"><img src="http://upload.wikimedia.org/wikipedia/en/thumb/7/7f/Central_Public_Library_%26_City_Museum_of_Washington%2C_D.C..JPG/250px-Central_Public_Library_%26_City_Museum_of_Washington%2C_D.C..JPG" width="250" height="157"/></a></td></tr><tr><td><p align="left"><font size="3">PHOTO <a href="http://en.wikipedia.org/wiki/User_talk:AgnosticPreachersKid">like a lollipop</a></font></p></td><td><p align="right"><a href="http://geolines.ru/PHOTOOBJECT/temples-palaces/NEW-ATLANTIS/NEW-ATLANTIS_944.html" title="PHOTO" target="_blank"><img height="30" width="160" align="right" alt="" src="http://www.geolines.ru/netcat_files/18/10/h_e7cd08f11efb85394452007d025a3e13"/></a></p></td></tr></table></div>]]></description>
+				<styleUrl>#msn_shaded_dot136</styleUrl>
+				<Point>
+					<coordinates>-77.0229309262523,38.90252500667963,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Logan Circle</name>
+				<visibility>0</visibility>
+				<description><![CDATA[<b>Logan Circle</b>
+<div align="center" dir="ltr"><table width="300"><tr><td colspan="2"><h2><font size="3"><b></b></font></h2><tr><td colspan="2"><img src="http://mw2.google.com/mw-panoramio/photos/medium/7512258.jpg" width="300" height="225"/></a></td></tr><tr><td><p align="left"><font size="3">PHOTO <a href="http://www.panoramio.com/user/1046098?with_photo_id=7512258">USAnwalt</a></font></p></td><td><p align="right"><a href="http://geolines.ru/PHOTOOBJECT/temples-palaces/NEW-ATLANTIS/NEW-ATLANTIS_945.html" title="PHOTO" target="_blank"><img height="30" width="160" align="right" alt="" src="http://www.geolines.ru/netcat_files/18/10/h_e7cd08f11efb85394452007d025a3e13"/></a></p></td></tr></table></div>]]></description>
+				<styleUrl>#msn_shaded_dot136</styleUrl>
+				<Point>
+					<coordinates>-77.02963962897343,38.90964555287974,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Dupont Circle</name>
+				<visibility>0</visibility>
+				<description><![CDATA[<b>Dupont Circle</b>
+<div align="center" dir="ltr"><table width="300"><tr><td colspan="2"><h2><font size="3"><b></b></font></h2><tr><td colspan="2"><img src="http://mw2.google.com/mw-panoramio/photos/medium/16298978.jpg" width="300" height="225"/></a></td></tr><tr><td><p align="left"><font size="3">PHOTO <a href="http://www.panoramio.com/user/2363838?with_photo_id=16298978">THE-O.</a></font></p></td><td><p align="right"><a href="http://geolines.ru/PHOTOOBJECT/temples-palaces/NEW-ATLANTIS/NEW-ATLANTIS_946.html" title="PHOTO" target="_blank"><img height="30" width="160" align="right" alt="" src="http://www.geolines.ru/netcat_files/18/10/h_e7cd08f11efb85394452007d025a3e13"/></a></p></td></tr></table></div>]]></description>
+				<styleUrl>#msn_shaded_dot136</styleUrl>
+				<Point>
+					<coordinates>-77.04343616037059,38.90964471811121,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>White House</name>
+				<visibility>0</visibility>
+				<description><![CDATA[<b>White House </b>
+<div align="center" dir="ltr"><table width="300"><tr><td colspan="2"><h2><font size="3"><b></b></font></h2><tr><td colspan="2"><img src="http://mw2.google.com/mw-panoramio/photos/medium/9309411.jpg" width="300" height="175"/></a></td></tr><tr><td><p align="left"><font size="3">PHOTO <a href="http://www.panoramio.com/user/1182691?with_photo_id=9309411">W.Austermu"hle HOG.</a></font></p></td><td><p align="right"><a href="http://geolines.ru/PHOTOOBJECT/temples-palaces/NEW-ATLANTIS/NEW-ATLANTIS_947.html" title="PHOTO" target="_blank"><img height="30" width="160" align="right" alt="" src="http://www.geolines.ru/netcat_files/18/10/h_e7cd08f11efb85394452007d025a3e13"/></a></p></td></tr></table></div>]]></description>
+				<styleUrl>#msn_shaded_dot136</styleUrl>
+				<Point>
+					<coordinates>-77.03657200000001,38.897847,0</coordinates>
+				</Point>
+			</Placemark>
+		</Folder>
+		<Folder>
+			<name>WASHINGTON METRIC GRID</name>
+			<visibility>0</visibility>
+			<Placemark>
+				<name>900 М horizontally</name>
+				<visibility>0</visibility>
+				<styleUrl>#msn_ylw-pushpin94100</styleUrl>
+				<LineString>
+					<tessellate>1</tessellate>
+					<coordinates>
+						-77.08774061671609,38.87320338056654,0 -76.96395090260324,38.87325275920583,0 -76.96387991213824,38.88141560685347,0 -77.087768126028,38.88127183567632,0 -77.08782089578162,38.88941502614021,0 -76.96388135272493,38.88965580457792,0 -76.96388125013382,38.89779800643321,0 -77.08799406839165,38.897835325266,0 -77.08809579582251,38.90565949306438,0 -76.96388467901548,38.90558862599315,0 -76.96382867127539,38.91416790624106,0 -77.08777650401137,38.9141164826892,0 -77.08768796467147,38.92212917193939,0 -76.96375614803362,38.92210456309819,0 -76.96372658017302,38.93021163251248,0 -77.08779458028562,38.9302463930249,0 
+					</coordinates>
+				</LineString>
+			</Placemark>
+			<Placemark>
+				<name>vertically</name>
+				<visibility>0</visibility>
+				<styleUrl>#msn_ylw-pushpin51110</styleUrl>
+				<LineString>
+					<tessellate>1</tessellate>
+					<coordinates>
+						-77.00904340682993,38.87076432820819,0 -77.00919268387537,38.93743659857928,0 -77.02286903928147,38.93743196944619,0 -77.02298735957338,38.87074619780623,0 -77.03666020428928,38.87076490098723,0 -77.0364279963364,38.93750957499882,0 -77.05007499562804,38.93751818319132,0 -77.05024478838975,38.87070076615524,0 -77.07129140139945,38.87073090943446,0 -77.07087297389869,38.93741120719474,0 
+					</coordinates>
+				</LineString>
+			</Placemark>
+		</Folder>
+	</Folder>
+</Document>
+</kml>

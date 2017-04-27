@@ -1,0 +1,530 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+<Document>
+	<name>geolines-ru-st-peterburg.kml</name>
+	<StyleMap id="msn_ranger_station5">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_ranger_station20</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_ranger_station3</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="sh_ranger_station0">
+		<IconStyle>
+			<scale>1.06667</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/shapes/ranger_station.png</href>
+			</Icon>
+			<hotSpot x="0.5" y="0" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+		<LabelStyle>
+			<color>ff00aaff</color>
+		</LabelStyle>
+		<BalloonStyle>
+			<text>$[description]</text>
+		</BalloonStyle>
+		<LineStyle>
+			<color>ff000000</color>
+			<width>0</width>
+			<gx:labelVisibility>1</gx:labelVisibility>
+		</LineStyle>
+		<PolyStyle>
+			<color>ff000000</color>
+		</PolyStyle>
+	</Style>
+	<Style id="sn_arrow">
+		<IconStyle>
+			<color>ff00ffaa</color>
+			<scale>0.8</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/shapes/arrow.png</href>
+			</Icon>
+			<hotSpot x="32" y="1" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<LabelStyle>
+			<color>ff00aaff</color>
+			<scale>0</scale>
+		</LabelStyle>
+		<BalloonStyle>
+			<text>$[description]</text>
+		</BalloonStyle>
+		<LineStyle>
+			<color>ff000000</color>
+			<width>0</width>
+			<gx:labelVisibility>1</gx:labelVisibility>
+		</LineStyle>
+		<PolyStyle>
+			<color>ff000000</color>
+		</PolyStyle>
+	</Style>
+	<Style id="sn_ranger_station20">
+		<IconStyle>
+			<scale>0.8</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/shapes/ranger_station.png</href>
+			</Icon>
+			<hotSpot x="0.5" y="0" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+		<LabelStyle>
+			<color>ff00aaff</color>
+			<scale>0</scale>
+		</LabelStyle>
+		<BalloonStyle>
+			<text>$[description]</text>
+		</BalloonStyle>
+		<LineStyle>
+			<color>ff000000</color>
+			<width>0</width>
+			<gx:labelVisibility>1</gx:labelVisibility>
+		</LineStyle>
+		<PolyStyle>
+			<color>ff000000</color>
+		</PolyStyle>
+	</Style>
+	<Style id="sh_ranger_station4">
+		<IconStyle>
+			<scale>1.06667</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/shapes/ranger_station.png</href>
+			</Icon>
+			<hotSpot x="0.5" y="0" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+		<LabelStyle>
+			<color>ff00aaff</color>
+		</LabelStyle>
+		<BalloonStyle>
+			<text>$[description]</text>
+		</BalloonStyle>
+		<LineStyle>
+			<color>ff000000</color>
+			<width>0</width>
+			<gx:labelVisibility>1</gx:labelVisibility>
+		</LineStyle>
+		<PolyStyle>
+			<color>ff000000</color>
+		</PolyStyle>
+	</Style>
+	<StyleMap id="msn_ranger_station4">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_ranger_station20</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_ranger_station5</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="sn_ranger_station1">
+		<IconStyle>
+			<scale>0.8</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/shapes/ranger_station.png</href>
+			</Icon>
+			<hotSpot x="0.5" y="0" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+		<LabelStyle>
+			<color>ff00aaff</color>
+			<scale>0</scale>
+		</LabelStyle>
+		<BalloonStyle>
+			<text>$[description]</text>
+		</BalloonStyle>
+		<LineStyle>
+			<color>ff000000</color>
+			<width>0</width>
+			<gx:labelVisibility>1</gx:labelVisibility>
+		</LineStyle>
+		<PolyStyle>
+			<color>ff000000</color>
+		</PolyStyle>
+	</Style>
+	<Style id="sn_ranger_station3">
+		<IconStyle>
+			<scale>0.8</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/shapes/ranger_station.png</href>
+			</Icon>
+			<hotSpot x="0.5" y="0" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+		<LabelStyle>
+			<color>ff00aaff</color>
+			<scale>0</scale>
+		</LabelStyle>
+		<BalloonStyle>
+			<text>$[description]</text>
+		</BalloonStyle>
+		<LineStyle>
+			<color>ff000000</color>
+			<width>0</width>
+			<gx:labelVisibility>1</gx:labelVisibility>
+		</LineStyle>
+		<PolyStyle>
+			<color>ff000000</color>
+		</PolyStyle>
+	</Style>
+	<Style id="sh_ranger_station2">
+		<IconStyle>
+			<scale>1.12</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/shapes/ranger_station.png</href>
+			</Icon>
+			<hotSpot x="0.5" y="0" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+		<LabelStyle>
+			<color>ff00aaff</color>
+		</LabelStyle>
+		<BalloonStyle>
+			<text>$[description]</text>
+		</BalloonStyle>
+		<LineStyle>
+			<color>ff000000</color>
+			<width>0</width>
+			<gx:labelVisibility>1</gx:labelVisibility>
+		</LineStyle>
+		<PolyStyle>
+			<color>ff000000</color>
+		</PolyStyle>
+	</Style>
+	<Style id="sn_ranger_station2">
+		<IconStyle>
+			<scale>0.8</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/shapes/ranger_station.png</href>
+			</Icon>
+			<hotSpot x="0.5" y="0" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+		<LabelStyle>
+			<color>ff00aaff</color>
+			<scale>0</scale>
+		</LabelStyle>
+		<BalloonStyle>
+			<text>$[description]</text>
+		</BalloonStyle>
+		<LineStyle>
+			<color>ff000000</color>
+			<width>0</width>
+			<gx:labelVisibility>1</gx:labelVisibility>
+		</LineStyle>
+		<PolyStyle>
+			<color>ff000000</color>
+		</PolyStyle>
+	</Style>
+	<StyleMap id="msn_ranger_station2">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_ranger_station20</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_ranger_station00</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="msn_ranger_station10">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_ranger_station1</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_ranger_station2</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="msn_ranger_station0">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_ranger_station2</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_ranger_station1</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="sh_ranger_station00">
+		<IconStyle>
+			<scale>1.12</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/shapes/ranger_station.png</href>
+			</Icon>
+			<hotSpot x="0.5" y="0" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+		<LabelStyle>
+			<color>ff00aaff</color>
+		</LabelStyle>
+		<BalloonStyle>
+			<text>$[description]</text>
+		</BalloonStyle>
+		<LineStyle>
+			<color>ff000000</color>
+			<width>0</width>
+			<gx:labelVisibility>1</gx:labelVisibility>
+		</LineStyle>
+		<PolyStyle>
+			<color>ff000000</color>
+		</PolyStyle>
+	</Style>
+	<StyleMap id="msn_arrow">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_arrow</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_arrow</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="sh_ranger_station1">
+		<IconStyle>
+			<scale>1.06667</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/shapes/ranger_station.png</href>
+			</Icon>
+			<hotSpot x="0.5" y="0" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+		<LabelStyle>
+			<color>ff00aaff</color>
+		</LabelStyle>
+		<BalloonStyle>
+			<text>$[description]</text>
+		</BalloonStyle>
+		<LineStyle>
+			<color>ff000000</color>
+			<width>0</width>
+			<gx:labelVisibility>1</gx:labelVisibility>
+		</LineStyle>
+		<PolyStyle>
+			<color>ff000000</color>
+		</PolyStyle>
+	</Style>
+	<Style id="sh_ranger_station5">
+		<IconStyle>
+			<scale>1.06667</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/shapes/ranger_station.png</href>
+			</Icon>
+			<hotSpot x="0.5" y="0" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+		<LabelStyle>
+			<color>ff00aaff</color>
+		</LabelStyle>
+		<BalloonStyle>
+			<text>$[description]</text>
+		</BalloonStyle>
+		<LineStyle>
+			<color>ff000000</color>
+			<width>0</width>
+			<gx:labelVisibility>1</gx:labelVisibility>
+		</LineStyle>
+		<PolyStyle>
+			<color>ff000000</color>
+		</PolyStyle>
+	</Style>
+	<Style id="sh_ranger_station3">
+		<IconStyle>
+			<scale>1.06667</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/shapes/ranger_station.png</href>
+			</Icon>
+			<hotSpot x="0.5" y="0" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+		<LabelStyle>
+			<color>ff00aaff</color>
+		</LabelStyle>
+		<BalloonStyle>
+			<text>$[description]</text>
+		</BalloonStyle>
+		<LineStyle>
+			<color>ff000000</color>
+			<width>0</width>
+			<gx:labelVisibility>1</gx:labelVisibility>
+		</LineStyle>
+		<PolyStyle>
+			<color>ff000000</color>
+		</PolyStyle>
+	</Style>
+	<StyleMap id="msn_ranger_station3">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_ranger_station3</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_ranger_station0</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="sh_arrow">
+		<IconStyle>
+			<color>ff00ffaa</color>
+			<scale>1.06667</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/shapes/arrow.png</href>
+			</Icon>
+			<hotSpot x="32" y="1" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<LabelStyle>
+			<color>ff00aaff</color>
+		</LabelStyle>
+		<BalloonStyle>
+			<text>$[description]</text>
+		</BalloonStyle>
+		<LineStyle>
+			<color>ff000000</color>
+			<width>0</width>
+			<gx:labelVisibility>1</gx:labelVisibility>
+		</LineStyle>
+		<PolyStyle>
+			<color>ff000000</color>
+		</PolyStyle>
+	</Style>
+	<Style id="sn_ranger_station0">
+		<IconStyle>
+			<scale>0.8</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/shapes/ranger_station.png</href>
+			</Icon>
+			<hotSpot x="0.5" y="0" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+		<LabelStyle>
+			<color>ff00aaff</color>
+			<scale>0</scale>
+		</LabelStyle>
+		<BalloonStyle>
+			<text>$[description]</text>
+		</BalloonStyle>
+		<LineStyle>
+			<color>ff000000</color>
+			<width>0</width>
+			<gx:labelVisibility>1</gx:labelVisibility>
+		</LineStyle>
+		<PolyStyle>
+			<color>ff000000</color>
+		</PolyStyle>
+	</Style>
+	<StyleMap id="msn_ranger_station1">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_ranger_station0</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_ranger_station4</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Folder>
+		<name>Храмы и дворцы Санкт-Петербурга / SPb_Temles</name>
+		<visibility>0</visibility>
+		<Placemark>
+			<name>General Headquarters</name>
+			<visibility>0</visibility>
+			<open>1</open>
+			<description><![CDATA[<table align="center" cellspacing="1" cellpadding="1" border="0" width="320"><tbody><tr><td height="43" align="center" width="52" valign="middle"><a href="http://geolines.ru/" target="_blank"><img height="41" align="center" width="50" src="http://geolines.ru/netcat_files/18/10/h_bb0922729cbd9376b7723c336be1b42e" title="GeoLines.ru" alt="" /></a></td><td valign="middle" style="text-align: center;"><span style="color: rgb(128, 0, 0);"><strong>Главнный штаб / General Headquarters</strong></span></td></tr></tbody></table><p style="text-align: center;"><img height="195" align="middle" border="1" width="260" src="http://mw2.google.com/mw-panoramio/photos/small/127049.jpg" alt="" /></p><p style="text-align: center;"><a href="http://geolines.ru/PHOTOOBJECT/temples-palaces/temples-palaces_513.html" target="_blank">PHOTO</a> <span style="color: rgb(255, 0, 0);">&diams;</span> <a href="http://ru.wikipedia.org/wiki/%D0%97%D0%B4%D0%B0%D0%BD%D0%B8%D0%B5_%D0%93%D0%BB%D0%B0%D0%B2%D0%BD%D0%BE%D0%B3%D0%BE_%D1%88%D1%82%D0%B0%D0%B1%D0%B0_%28%D0%A1%D0%B0%D0%BD%D0%BA%D1%82-%D0%9F%D0%B5%D1%82%D0%B5%D1%80%D0%B1%D1%83%D1%80%D0%B3%29" target="_blank">ИНФОРМАЦИЯ</a> <span style="color: rgb(255, 0, 0);">&diams;</span> <a href="http://en.wikipedia.org/wiki/General_Staff_Building_%28Saint_Petersburg%29" target="_blank">INFORMATION</a></p>]]></description>
+			<styleUrl>#msn_ranger_station1</styleUrl>
+			<Point>
+				<coordinates>30.3176403,59.93770980000001,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Saint Isaac&apos;s Cathedral</name>
+			<visibility>0</visibility>
+			<open>1</open>
+			<description><![CDATA[<table align="center" cellspacing="1" cellpadding="1" border="0" width="320"><tbody><tr><td height="43" align="center" width="52" valign="middle"><a href="http://geolines.ru/" target="_blank"><img height="41" align="center" width="50" src="http://geolines.ru/netcat_files/18/10/h_bb0922729cbd9376b7723c336be1b42e" title="GeoLines.ru" alt="" /></a></td><td valign="middle" style="text-align: center;"><span style="color: rgb(128, 0, 0);"><strong>Исаакиевский собор / Saint Isaac's Cathedral</strong></span></td></tr></tbody></table><p style="text-align: center;"><img height="195" align="middle" border="1" width="260" src="http://mw2.google.com/mw-panoramio/photos/small/1063291.jpg" alt="" /></p><p style="text-align: center;"><a href="http://geolines.ru/PHOTOOBJECT/temples-palaces/temples-palaces_514.html" target="_blank">PHOTO</a> <span style="color: rgb(255, 0, 0);">&diams;</span> <a href="http://ru.wikipedia.org/wiki/%C8%F1%E0%E0%EA%E8%E5%E2%F1%EA%E8%E9_%F1%EE%E1%EE%F0" target="_blank">ИНФОРМАЦИЯ</a> <span style="color: rgb(255, 0, 0);">&diams;</span> <a href="http://en.wikipedia.org/wiki/Saint_Isaac%27s_Cathedral" target="_blank">INFORMATION</a></p>]]></description>
+			<styleUrl>#msn_ranger_station1</styleUrl>
+			<Point>
+				<coordinates>30.30602355870812,59.93466441943392,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>The Admiralty</name>
+			<visibility>0</visibility>
+			<open>1</open>
+			<description><![CDATA[<table align="center" cellspacing="1" cellpadding="1" border="0" width="320"><tbody><tr><td height="43" align="center" width="52" valign="middle"><a href="http://geolines.ru/" target="_blank"><img height="41" align="center" width="50" src="http://geolines.ru/netcat_files/18/10/h_bb0922729cbd9376b7723c336be1b42e" title="GeoLines.ru" alt="" /></a></td><td valign="middle" style="text-align: center;"><span style="color: rgb(128, 0, 0);"><strong>Адмиралтейство / The Admiralty</strong></span></td></tr></tbody></table><p style="text-align: center;"><img height="195" align="middle" border="1" width="260" src="http://mw2.google.com/mw-panoramio/photos/small/6960666.jpg" alt="" /></p><p style="text-align: center;"><a href="http://geolines.ru/PHOTOOBJECT/temples-palaces/temples-palaces_516.html" target="_blank">PHOTO</a> <span style="color: rgb(255, 0, 0);">&diams;</span> <a href="http://petersburg-history.narod.ru/p1248.htm" target="_blank">ИНФОРМАЦИЯ</a> <span style="color: rgb(255, 0, 0);">&diams;</span> <a href="http://www.saint-petersburg-hotels.com/admiralteystvo.htm" target="_blank">INFORMATION</a></p>]]></description>
+			<styleUrl>#msn_ranger_station1</styleUrl>
+			<Point>
+				<coordinates>30.30912682849283,59.93722178450568,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Central Naval Museum</name>
+			<visibility>0</visibility>
+			<open>1</open>
+			<description><![CDATA[<table align="center" cellspacing="1" cellpadding="1" border="0" width="320"><tbody><tr><td height="43" align="center" width="52" valign="middle"><a href="http://geolines.ru/" target="_blank"><img height="41" align="center" width="50" src="http://geolines.ru/netcat_files/18/10/h_bb0922729cbd9376b7723c336be1b42e" title="GeoLines.ru" alt="" /></a></td><td valign="middle" style="text-align: center;"><span style="color: rgb(128, 0, 0);"><strong>Центральный военно-морской музей / Central Naval Museum</strong></span></td></tr></tbody></table><p style="text-align: center;"><img height="195" align="middle" border="1" width="260" src="http://mw2.google.com/mw-panoramio/photos/small/161188.jpg" alt="" /></p><p style="text-align: center;"><a href="http://geolines.ru/PHOTOOBJECT/temples-palaces/temples-palaces_515.html" target="_blank">PHOTO</a> <span style="color: rgb(255, 0, 0);">&diams;</span> <a href="http://navalmuseum.ru/" target="_blank">ИНФОРМАЦИЯ</a> <span style="color: rgb(255, 0, 0);">&diams;</span> <a href="http://www.saint-petersburg-hotels.com/voenno_morskoi.htm" target="_blank">INFORMATION</a></p>]]></description>
+			<styleUrl>#msn_ranger_station1</styleUrl>
+			<Point>
+				<coordinates>30.30611584600899,59.9439626892196,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Transfiguration Cathedral</name>
+			<visibility>0</visibility>
+			<open>1</open>
+			<description><![CDATA[<table align="center" cellspacing="1" cellpadding="1" border="0" width="320"><tbody><tr><td height="43" align="center" width="52" valign="middle"><a href="http://geolines.ru/" target="_blank"><img height="41" align="center" width="50" src="http://geolines.ru/netcat_files/18/10/h_bb0922729cbd9376b7723c336be1b42e" title="GeoLines.ru" alt="" /></a></td><td valign="middle" style="text-align: center;"><span style="color: rgb(128, 0, 0);"><strong>Спасо-Преображенский собор / Transfiguration Cathedral</strong></span></td></tr></tbody></table><p style="text-align: center;"><img height="195" align="middle" border="1" width="260" src="http://mw2.google.com/mw-panoramio/photos/small/42990237.jpg" alt="" /></p><p style="text-align: center;"><a href="http://geolines.ru/PHOTOOBJECT/temples-palaces/temples-palaces_517.html" target="_blank">PHOTO</a> <span style="color: rgb(255, 0, 0);">&diams;</span> <a href="http://palmernw.ru/preobr/preobr.html" target="_blank">ИНФОРМАЦИЯ</a> <span style="color: rgb(255, 0, 0);">&diams;</span> <a href="http://www.saint-petersburg.com/cathedrals/Transfiguration-Cathedral.asp" target="_blank">INFORMATION</a></p>]]></description>
+			<styleUrl>#msn_ranger_station4</styleUrl>
+			<Point>
+				<coordinates>30.35247144616569,59.94329049271853,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Beloselsky-Belozersky Palace</name>
+			<visibility>0</visibility>
+			<open>1</open>
+			<description><![CDATA[<table align="center" cellspacing="1" cellpadding="1" border="0" width="320"><tbody><tr><td height="43" align="center" width="52" valign="middle"><a href="http://geolines.ru/" target="_blank"><img height="41" align="center" width="50" src="http://geolines.ru/netcat_files/18/10/h_bb0922729cbd9376b7723c336be1b42e" title="GeoLines.ru" alt="" /></a></td><td valign="middle" style="text-align: center;"><span style="color: rgb(128, 0, 0);"><strong>Дворец Белосельских-Белозерских / Beloselsky-Belozersky Palace</strong></span></td></tr></tbody></table><p style="text-align: center;"><img height="195" align="middle" border="1" width="260" src="http://mw2.google.com/mw-panoramio/photos/small/157694.jpg" alt="" /></p><p style="text-align: center;"><a href="http://geolines.ru/PHOTOOBJECT/temples-palaces/temples-palaces_518.html" target="_blank">PHOTO</a> <span style="color: rgb(255, 0, 0);">&diams;</span> <a href="http://walkspb.ru/zd/nevskiy41.html" target="_blank">ИНФОРМАЦИЯ</a> <span style="color: rgb(255, 0, 0);">&diams;</span> <a href="http://www.encspb.ru/en/article.php?kod=2804003044" target="_blank">INFORMATION</a></p>]]></description>
+			<styleUrl>#msn_ranger_station2</styleUrl>
+			<Point>
+				<coordinates>30.34426429520529,59.93269717977331,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Moskovsky Rail Terminal</name>
+			<visibility>0</visibility>
+			<open>1</open>
+			<description><![CDATA[<table align="center" cellspacing="1" cellpadding="1" border="0" width="320"><tbody><tr><td height="43" align="center" width="52" valign="middle"><a href="http://geolines.ru/" target="_blank"><img height="41" align="center" width="50" src="http://geolines.ru/netcat_files/18/10/h_bb0922729cbd9376b7723c336be1b42e" title="GeoLines.ru" alt="" /></a></td><td valign="middle" style="text-align: center;"><span style="color: rgb(128, 0, 0);"><strong>Московский вокзал / Moskovsky Rail Terminal</strong></span></td></tr></tbody></table><p style="text-align: center;"><img height="195" align="middle" border="1" width="260" src="http://mw2.google.com/mw-panoramio/photos/small/7145959.jpg" alt="" /></p><p style="text-align: center;"><a href="http://geolines.ru/PHOTOOBJECT/temples-palaces/temples-palaces_522.html" target="_blank">PHOTO</a> <span style="color: rgb(255, 0, 0);">&diams;</span> <a href="http://walkspb.ru/zd/pl_vosstaniya2.html" target="_blank">ИНФОРМАЦИЯ</a> <span style="color: rgb(255, 0, 0);">&diams;</span> <a href="http://encycl.opentopia.com/term/Moscow-Saint_Petersburg_Railway" target="_blank">INFORMATION</a></p>]]></description>
+			<styleUrl>#msn_ranger_station5</styleUrl>
+			<Point>
+				<coordinates>30.36215203024138,59.9296064210011,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Tauride Palace</name>
+			<visibility>0</visibility>
+			<open>1</open>
+			<description><![CDATA[<table align="center" cellspacing="1" cellpadding="1" border="0" width="320"><tbody><tr><td height="43" align="center" width="52" valign="middle"><a href="http://geolines.ru/" target="_blank"><img height="41" align="center" width="50" src="http://geolines.ru/netcat_files/18/10/h_bb0922729cbd9376b7723c336be1b42e" title="GeoLines.ru" alt="" /></a></td><td valign="middle" style="text-align: center;"><span style="color: rgb(128, 0, 0);"><strong>Таврический дворец / Tauride Palace</strong></span></td></tr></tbody></table><p style="text-align: center;"><img height="195" align="middle" border="1" width="260" src="http://mw2.google.com/mw-panoramio/photos/small/20249697.jpg" alt="" /></p><p style="text-align: center;"><a href="http://geolines.ru/PHOTOOBJECT/temples-palaces/temples-palaces_523.html" target="_blank">PHOTO</a> <span style="color: rgb(255, 0, 0);">&diams;</span> <a href="http://walkspb.ru/zd/tavricheskiy.html" target="_blank">ИНФОРМАЦИЯ</a> <span style="color: rgb(255, 0, 0);">&diams;</span> <a href="http://www.encspb.ru/en/article.php?kod=2804004262" target="_blank">INFORMATION</a></p>]]></description>
+			<styleUrl>#msn_ranger_station0</styleUrl>
+			<Point>
+				<coordinates>30.37705338103931,59.94832386123026,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Alexander Column</name>
+			<visibility>0</visibility>
+			<open>1</open>
+			<description><![CDATA[<table align="center" cellspacing="1" cellpadding="1" border="0" width="320"><tbody><tr><td height="43" align="center" width="52" valign="middle"><a href="http://geolines.ru/" target="_blank"><img height="41" align="center" width="50" src="http://geolines.ru/netcat_files/18/10/h_bb0922729cbd9376b7723c336be1b42e" title="GeoLines.ru" alt="" /></a></td><td valign="middle" style="text-align: center;"><span style="color: rgb(128, 0, 0);"><strong>Александровская колонна / Alexander Column</strong></span></td></tr></tbody></table><p style="text-align: center;"><img height="195" align="middle" border="1" width="260" src="http://mw2.google.com/mw-panoramio/photos/small/6960746.jpg" alt="" /></p><p style="text-align: center;"><a href="http://geolines.ru/PHOTOOBJECT/processed-stones/processed-stones_531.html" target="_blank">PHOTO</a> <span style="color: rgb(255, 0, 0);">&diams;</span> <a href="http://geolines.ru/research/research_673.html" target="_blank">ИНФОРМАЦИЯ</a> <span style="color: rgb(255, 0, 0);">&diams;</span> <a href="http://geolines.ru/research/research_673.html" target="_blank">INFORMATION</a></p>]]></description>
+			<styleUrl>#msn_arrow</styleUrl>
+			<Point>
+				<coordinates>30.31592889999456,59.9391639492131,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Kazansky Cathedral</name>
+			<visibility>0</visibility>
+			<open>1</open>
+			<description><![CDATA[<table align="center" cellspacing="1" cellpadding="1" border="0" width="320"><tbody><tr><td height="43" align="center" width="52" valign="middle"><a href="http://geolines.ru/" target="_blank"><img height="41" align="center" width="50" src="http://geolines.ru/netcat_files/18/10/h_bb0922729cbd9376b7723c336be1b42e" title="GeoLines.ru" alt="" /></a></td><td valign="middle" style="text-align: center;"><span style="color: rgb(128, 0, 0);"><strong>Казанский собор / Kazansky Cathedral</strong></span></td></tr></tbody></table><p style="text-align: center;"><img height="195" align="middle" border="1" width="260" src="http://mw2.google.com/mw-panoramio/photos/small/686657.jpg" alt="" /></p><p style="text-align: center;"><a href="http://geolines.ru/PHOTOOBJECT/temples-palaces/temples-palaces_539.html" target="_blank">PHOTO</a> <span style="color: rgb(255, 0, 0);">&diams;</span> <a href="http://walkspb.ru/zd/kazanskiy_sobor.html" target="_blank">ИНФОРМАЦИЯ</a> <span style="color: rgb(255, 0, 0);">&diams;</span> <a href="http://www.saint-petersburg-hotels.com/kazanskiy.htm" target="_blank">INFORMATION</a></p>]]></description>
+			<styleUrl>#msn_ranger_station3</styleUrl>
+			<Point>
+				<coordinates>30.32497830001607,59.93501853119129,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Catherine Palace</name>
+			<visibility>0</visibility>
+			<open>1</open>
+			<description><![CDATA[<table align="center" cellspacing="1" cellpadding="1" border="0" width="320"><tbody><tr><td height="43" align="center" width="52" valign="middle"><a href="http://geolines.ru/" target="_blank"><img height="41" align="center" width="50" src="http://geolines.ru/netcat_files/18/10/h_bb0922729cbd9376b7723c336be1b42e" title="GeoLines.ru" alt="" /></a></td><td valign="middle" style="text-align: center;"><span style="color: rgb(128, 0, 0);"><strong>Эрмитаж / Hermitage</strong></span></td></tr></tbody></table><p style="text-align: center;"><img height="195" align="middle" border="1" width="260" src="http://mw2.google.com/mw-panoramio/photos/small/286609.jpg" alt="" /></p><p style="text-align: center;"><a href="http://geolines.ru/PHOTOOBJECT/temples-palaces/temples-palaces_540.html" target="_blank">PHOTO</a> <span style="color: rgb(255, 0, 0);">&diams;</span> <a href="http://ermitazh.net/" target="_blank">ИНФОРМАЦИЯ</a> <span style="color: rgb(255, 0, 0);">&diams;</span> <a href="http://www.hermitagemuseum.org/html_En/index.html" target="_blank">INFORMATION</a></p>]]></description>
+			<styleUrl>#msn_ranger_station10</styleUrl>
+			<Point>
+				<coordinates>30.31366023349802,59.9405644400523,0</coordinates>
+			</Point>
+		</Placemark>
+	</Folder>
+</Document>
+</kml>
