@@ -1,5 +1,5 @@
 # Setup
-theme:        jekyll-theme-cayman
+theme:        jekyll-theme-tactile
 markdown:     kramdown
 
 title:        "База пирамид"
