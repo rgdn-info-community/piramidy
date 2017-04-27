@@ -31,7 +31,7 @@
 
 2\. после регистрации:
 
-  - переходите на страницу [`rgdn-info-community/pyramidy`/piramidy](https://github.com/rgdn-info-community/piramidy)
+  - переходите на страницу [`rgdn-info-community/pyramidy`](https://github.com/rgdn-info-community/piramidy)
   - и нажимаете на кнопку `Watch (Следить)` ![Watch](img/watch-button.png)  
   - тем самым вы ещё и будете получать уведомления о работе над репозиторием на главной странице своего гитхаб-аккаунта
 
