@@ -2,5 +2,7 @@
 theme:        jekyll-theme-tactile
 markdown:     kramdown
 
+# Page
 title:        "База пирамид"
 description:  "Пирамиды. Сбор информации. Создание общей базы."
+show_downloads: true
