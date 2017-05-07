@@ -1,7 +1,8 @@
 Данный репозиторий создан для более удобной работы по созданию общей базы пирамид (и пока находится в процессе доработки).
 
-# Что уже добавлено
+# Новости
 
+## Что уже добавлено
 - Добавлены метки от Lada
 - Пирамиды в Антарктиде
   - 2 штуки рядом с [новой (2004) магнитной обсерваторией–станцией принцессы Елизаветы (Princess Elisabeth Station)](http://www.antarcticstation.org/science)
@@ -15,6 +16,36 @@
   - создан отдельный файл с пирамидами: [`база-пирамид.kml`](рабочие-файлы/база-пирамид.kml) (можно кликнуть – см. как скачать ниже)
   - надо будет ещё раз пересмотреть полный файл – [`geolines-ru-полный.kml`](рабочие-файлы/geolines-ru-полный.kml), т.к. я его лишь поверхностно просмотрел, может что-то упустил, надо пересмотреть и удалить не пирамиды
   - также, не знаю что делать с объектами Майя (и других коренных жителей Южной/Северной Америки) – тоже надо глянуть и добавить те, которые похожи на пирамиды
+
+## В планах
+- Статья про пирамиды Египта – всё сохранить в файл
+  - И удалить повторы
+- Проверить сайты
+  - [Карта расположения всех пирамид на Земле](http://lah.flybb.ru/topic1785.html)
+  - [Мировая система пирамид.](http://www.kosmm.ru/arl6.html)
+  - http://sibved.livejournal.com/tag/Пирамиды
+  - http://www.tart-aria.info/frantsiya-piramida-le-pertus-pod-sloem-gliny/
+  - http://www.tart-aria.info/piramidalnye-holmy-terrikony/
+  - https://ru.wikipedia.org/wiki/%D0%A1%D0%BF%D0%B8%D1%81%D0%BE%D0%BA_%D0%B5%D0%B3%D0%B8%D0%BF%D0%B5%D1%82%D1%81%D0%BA%D0%B8%D1%85_%D0%BF%D0%B8%D1%80%D0%B0%D0%BC%D0%B8%D0%B4
+  - http://xn--e1adcaacuhnujm.xn--p1ai/drevnie-piramidy-mira-sistema-ili-sovpadenie.html
+  - http://sirderya.blogspot.com/2013/12/ilim-cinde-de-olsa-gidip-alnz.html
+    - http://www.onemforum.com/dunya-sehirleri-resim/375784-beyaz-piramitlerin-google-earth-goruntusu.html
+  - http://www.kazan-newage.ru/sila/81-egi769petskie-pirami769d.html
+  - http://www.exomapia.ru/places/281713
+  - http://piramidainfo.net/map.php
+  - http://www.world-pyramids.com/
+  - http://hghltd.yandex.net/yandbtm?fmode=inject&url=http%3A%2F%2Fwww.mir.h19.ru%2Fxronologiya%2F16-WhiteGods%2Fimg%2Ffoto.php%3Fpgnum%3D49&tld=ru&lang=ru&la=1492602112&tm=1493745767&text=url%3Amir.h19.ru%2Fxronologiya%2F16-WhiteGods%2Fimg%2Ffoto.php%3Fpgnum%3D49%20%7C%20url%3Awww.mir.h19.ru%2Fxronologiya%2F16-WhiteGods%2Fimg%2Ffoto.php%3Fpgnum%3D49&l10n=ru&mime=html&type=touch&sign=629dd6c200aafda637770bd5c163dbca&keyno=0
+  - http://lah.flybb.ru/topic455.html
+  - http://lah.flybb.ru/topic1785.html
+  - http://home.hiwaay.net/~jalison/index.html
+  - https://www.google.com/maps/d/viewer?mid=19FJI3bP6wwTP5Hcvk5DKkFCbOyk
+  - http://lifeglobe.net/entry/1582
+  - http://turbina.ru/q/advice/69771/
+  - https://slavmaps.ru/spisok
+  - http://doublepyramid.org/zagadka-drevnih-piramid-na-kolskom-poluostrove/
+  - http://taboo.su/istoriya/zapretnaya-arkheologiya/74-kompleksy/233-teotiuakan-kompleks-piramid-v-meksike.html
+  - http://taboo.su/istoriya/zapretnaya-arkheologiya/74-kompleksy/193-ninchurt.html
+  - http://www.kosmm.ru/arl4.html
 
 # ЧаВо? (ЧАсто задаваемые ВОпросы)
 ## Как скачать...
@@ -80,9 +111,6 @@
 
 <div style="text-align:center"><img src ="img/list-of-resources.png" alt="Список ресурсов"/></div>
 
-# Мой план работы
-- Собрать информацию, которая уже есть в интернете
-  - найти различные источники
-- Доработать сайт на базе репозитория
-  - готов к вашим предложениям, дорогие друзья
-  - добавление карты с Google.Maps для визуализации проделанной работы я пока отложил в долгий ящик – если кто-то сможет помочь с организацией сего – напишите мне, пожалуйста
+# План работы по сайту
+- готов к вашим предложениям, дорогие друзья
+- добавление карты с Google.Maps для визуализации проделанной работы я пока отложил в долгий ящик – если кто-то сможет помочь с организацией сего – напишите мне, пожалуйста
