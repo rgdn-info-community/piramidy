@@ -23,6 +23,7 @@
 - Проверить сайты
   - [Карта расположения всех пирамид на Земле](http://lah.flybb.ru/topic1785.html)
   - [Мировая система пирамид.](http://www.kosmm.ru/arl6.html)
+    - [уже выложено](http://home.hiwaay.net/~jalison/index.html) и далее по ссылкам
   - http://sibved.livejournal.com/tag/Пирамиды
   - http://www.tart-aria.info/frantsiya-piramida-le-pertus-pod-sloem-gliny/
   - http://www.tart-aria.info/piramidalnye-holmy-terrikony/
@@ -37,7 +38,6 @@
   - http://hghltd.yandex.net/yandbtm?fmode=inject&url=http%3A%2F%2Fwww.mir.h19.ru%2Fxronologiya%2F16-WhiteGods%2Fimg%2Ffoto.php%3Fpgnum%3D49&tld=ru&lang=ru&la=1492602112&tm=1493745767&text=url%3Amir.h19.ru%2Fxronologiya%2F16-WhiteGods%2Fimg%2Ffoto.php%3Fpgnum%3D49%20%7C%20url%3Awww.mir.h19.ru%2Fxronologiya%2F16-WhiteGods%2Fimg%2Ffoto.php%3Fpgnum%3D49&l10n=ru&mime=html&type=touch&sign=629dd6c200aafda637770bd5c163dbca&keyno=0
   - http://lah.flybb.ru/topic455.html
   - http://lah.flybb.ru/topic1785.html
-  - http://home.hiwaay.net/~jalison/index.html
   - https://www.google.com/maps/d/viewer?mid=19FJI3bP6wwTP5Hcvk5DKkFCbOyk
   - http://lifeglobe.net/entry/1582
   - http://turbina.ru/q/advice/69771/
